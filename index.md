@@ -6,5 +6,5 @@ I don't know learn english,so... I always write english,but writed a lot of erro
 
 2018,I want became very stronger people,include of work & money & game.maybe other.oh,I want speak more english,emm...
 
-$ hexo new [layout] <title>
+[Google]: http://google.com/
 
